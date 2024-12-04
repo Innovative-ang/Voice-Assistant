@@ -15,4 +15,21 @@ This is a simple Voice Assistant designed to perform various tasks using voice c
 9. **Scroll Up and Scroll Down**: The assistant can scroll up and down.
 10. **Stop Listening**: The listening loop can be stopped by saying "stop" or "exit".
 
+
+Let make your day smarter, more productive, and a lot more fun!
+
 Thanks for using the Simple Voice Assistant!
+
+
+
+# Requirements
+
+- Python 3.6 or higher is required.
+- pip install pyautogui
+- pip install subprocess32
+- pip install webbrowser
+- pip install datetime
+- pip install pywhatkit
+- pip install wikipedia
+- pip install pygetwindow
+- pip install pyttsx3
